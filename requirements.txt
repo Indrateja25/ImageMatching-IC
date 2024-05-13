@@ -1,0 +1,10 @@
+cv2
+scipy
+seaborn
+numpy
+pandas
+pickle
+deskew
+matplotlib
+scikit-learn
+opencv-python
