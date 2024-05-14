@@ -1,6 +1,6 @@
 # ImageMatching-IC
 this project has been performed as Camera Captured Image Matching for Incidental Capture. expts contains all the experiments performed. helpers contains python helper scripts from experiments. dev contains the only required development code to reproduce the project/task.
-rest explain themselves.
+rest explain themselves. all the code is python 3+.
 
 steps to reproduce.
 1. place ground-truth images in a folder. 
